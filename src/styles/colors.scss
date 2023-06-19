@@ -1,0 +1,9 @@
+$primary-color: #213F7D;
+$secondary-color: #545F7D;
+$accent-color: #39CDCC;
+
+:export {
+  primaryColor: $primary-color;
+  secondaryColor: $secondary-color;
+  accentColor: $accent-color;
+}
